@@ -87,6 +87,7 @@ Define permissões de leitura, escrita e execução (rwx) para todos os usuário
     <li><a href="https://www.redhat.com/pt-br/topics/linux/what-is-linux">O que é Linux?</a></li>
     <li><a href="https://www.redhat.com/pt-br/topics/virtualization/what-is-virtualization">O que é Virtualização?</a></li>
     <li><a href="https://aws.amazon.com/pt/what-is-cloud-computing/">Computação em Nuvem</a></li>
+    <li><a href="https://www.linux.ime.usp.br/~albasalo/Apostila/apostila.pdf">Principais comandos do Linux</a></li>
 </ul>
 
 ------------
