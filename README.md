@@ -1,6 +1,6 @@
 # Infraestrutura como Código: Script para Criação de Usuários, Diretórios e Permissões.
 
-<h1>Realizando Deploy na Nuvem de um Conjunto de API’s Desenvolvida em Spring </h1>
+<h1>Infraestrutura como Código: Script para Criação de Usuários, Diretórios e Permissões. </h1>
 <p> Sejam bem-vindos ao projeto de LAB <strong>Infraestrutura como Código</strong> oferecido pela plataforma de cursos online <a href="https://dio.me/"><strong> Digital Innovation One</strong></a>.<br>
 
 <h2>🎯 Objetivo do Projeto</h2>
